@@ -36,4 +36,4 @@ project:
       version: v0.0.4
       edition: fixture-edition
   doi: 10.5072/zenodo.562233
-  github: https://github.com/pollomarzo/fixture-paper-repo
+  github: https://github.com/Open-Scholar-Nexus/conformance-paper
