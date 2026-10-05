@@ -4,4 +4,4 @@
 engine_repo: Open-Scholar-Nexus/oaktree-sapling
 
 # "." when this repository is the journal
-instance_repo: pollomarzo/fixture-instance-config
+instance_repo: Open-Scholar-Nexus/conformance-journal
