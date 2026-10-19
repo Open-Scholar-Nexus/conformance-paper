@@ -36,4 +36,5 @@ project:
       version: v0.3.0-dev.14
       edition: fixture-edition
   doi: 10.5072/zenodo.562233
+  doi: 10.5072/zenodo.1
   github: https://github.com/Open-Scholar-Nexus/conformance-paper
