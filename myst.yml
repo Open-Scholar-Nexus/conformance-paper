@@ -35,5 +35,4 @@ project:
       # real `vX.Y.Z` on canonical. A non-release pin fails loud in the shim (`pin a release`).
       version: v0.4.0-dev.2
       edition: fixture-edition
-  doi: 10.5072/zenodo.562233
   github: https://github.com/Open-Scholar-Nexus/conformance-paper
